@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is my personal blog.
 
 <!--
 **Luv-Letter/Luv-Letter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
